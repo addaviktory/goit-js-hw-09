@@ -29,7 +29,7 @@ const options = {
     removeAttributeDisabled(refs.btnEl);
   },
 };
-
+////
 flatpickr(refs.inputDateEl, options);
 
 function start() {
